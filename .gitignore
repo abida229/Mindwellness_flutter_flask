@@ -1,0 +1,22 @@
+# Test files
+test_mobile_app.html
+changes.md
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
