@@ -183,7 +183,7 @@ pip install -r requirements.txt
 | **Abida** | Backend Developer (Flask API, ML integration) |
 | **Shakila** | Frontend Developer (Flutter Mobile app, UI/UX) |
 
-**Supervisor:**Hafiz Burhan ul Haq**
+Supervisor:**Hafiz Burhan ul Haq**
 
 ---
 
